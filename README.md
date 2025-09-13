@@ -1,5 +1,5 @@
 # ai-hr-experiments
-A mini pilot study on LLM-assisted HR practices. Mainly focuses on outlier value detection.
+A mini pilot study on LLM-assisted HR practices. Mainly focuses on outlier value detection. Verifying authenticity is a completely different problem and deserves its own approach.
 
 Full research-paper-flavored PDF in files.
 
