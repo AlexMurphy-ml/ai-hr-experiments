@@ -1,7 +1,7 @@
 # ai-hr-experiments
 A mini pilot study on LLM-assisted HR practices. 
 
-Mainly focuses on outlier value detection. Verifying authenticity is a completely different problem that deserves its own approach.
+Mainly focuses on outlier value detection. Verifying authenticity is a completely different problem that deserves its own approach. Also, if you do signal-first hiring then verification is trivial.
 
 Full research-paper-flavored PDF in files.
 
